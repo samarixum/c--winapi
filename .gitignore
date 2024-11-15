@@ -1,0 +1,10 @@
+*.exe
+*.o
+*iss
+Linux.cpp
+*.sh
+/.history/
+
+
+# Ignore IDEs
+.vscode
